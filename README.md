@@ -1,2 +1,3 @@
 # Proyek Money Tracker APP
-submission course Menjadi Google Cloud Engineer
+Merupakan Proyek Akhir pada Pembelajaran Dicoding Menjadi Google Cloud Engineer.
+
